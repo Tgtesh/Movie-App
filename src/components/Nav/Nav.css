@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.navWrapper{
+    width: 100%;
+    background-color: rgb(197, 197, 238);
+    height:80px;
+    margin: auto;
+    box-shadow: 10px 10px 30px #bebebe, -20px -20px 60px #ffffff;
+}
+.formWrapper{
+    display: flex;
+  padding-top: 20px;
+ 
+    justify-content: center;
+    
+}
+.input{
+    height: 40px;
+    width: 550px;
+    border-radius: 10px;
+    font-size: 30px;
+    margin-right: 50px;
+}
+.searchButton{
+    height: 45px;
+    width: 150px;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: rgb(10, 89, 192);
+    color:white;
+}
